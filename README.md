@@ -178,11 +178,17 @@ This roadmap may shift as the community grows; treat it as indicative only.
 
 ## 🚀 Quick Start
 
-### Deploy with Zenith
+### Deploy
 
-To run Octop without managing a server, deploy it with Zenith Hosting:
+To run Octop without installing it yourself, deploy it on Tencent Cloud Lighthouse, Tencent Cloud CVM, or Zenith Hosting:
 
-[![Deploy with Zenith](https://cdn.zenith.hosting/buttons/deploy-with-zenith.svg)](https://zenith.hosting/host/octop)
+<p>
+  <a href="https://buy.cloud.tencent.com/lighthouse?blueprintType=APP_OS&blueprintOfficialId=lhbp-nxq7695q&regionId=1&zone=ap-guangzhou-6&bundleId=bundle_rs_mc_med2_01&loginSet=AUTO_PASSWORD&goodsNum=0&from=lh-console"><img alt="Deploy on Lighthouse" height="49" src="https://img.shields.io/badge/Deploy%20on-Lighthouse-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://buy.cloud.tencent.com/cvm?tab=custom&step=1&devPayMode=monthly&regionId=1&zoneId=100007&instanceType=SA9.64XLARGE1152&supportConfidentiality=false&platform=TencentOS&imageId=img-n3gxkolf&systemDiskType=CLOUD_HSSD&systemDiskSize=100&systemDiskBackupQuota=0&isBackup=false&backupDiskType=ALL&backupDiskCustomizeValue=&backupQuotaSegment=1&backupQuota=1&wanIp=0&loginSet=BIND_SSH_KEY&tags=null&templateCreateMode=createLt"><img alt="Deploy on CVM" height="49" src="https://img.shields.io/badge/Deploy%20on-CVM-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://zenith.hosting/host/octop"><img alt="Deploy with Zenith" height="49" src="https://cdn.zenith.hosting/buttons/deploy-with-zenith.svg" /></a>
+</p>
 
 ### Prerequisites
 
