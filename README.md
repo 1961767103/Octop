@@ -30,7 +30,6 @@
   <a href="#-features">Features</a> ·
   <a href="#-roadmap">Roadmap</a> ·
   <a href="#-quick-start">Quick Start</a> ·
-  <a href="https://zenith.hosting/host/octop">Managed hosting</a> ·
   <a href="#-contents">Contents</a>
 </p>
 
@@ -179,7 +178,7 @@ This roadmap may shift as the community grows; treat it as indicative only.
 
 ## 🚀 Quick Start
 
-### Managed hosting
+### Deploy with Zenith
 
 To run Octop without managing a server, deploy it with Zenith Hosting:
 
