@@ -306,6 +306,12 @@ docker run -d \
 
 完整变量列表见 [`.env.example`](.env.example)。
 
+### 云端部署
+
+<p>
+  <a href="https://buy.cloud.tencent.com/lighthouse?blueprintType=APP_OS&blueprintOfficialId=lhbp-nxq7695q&regionId=1&zone=ap-guangzhou-6&bundleId=bundle_rs_mc_med2_01&loginSet=AUTO_PASSWORD&goodsNum=0&from=lh-console"><img alt="部署到轻量云" width="194" height="49" src="docs/assets/deploy-on-lighthouse.png" /></a><br>
+  <a href="https://buy.cloud.tencent.com/cvm?tab=custom&step=1&devPayMode=monthly&regionId=1&zoneId=100007&instanceType=SA9.64XLARGE1152&supportConfidentiality=false&platform=TencentOS&imageId=img-n3gxkolf&systemDiskType=CLOUD_HSSD&systemDiskSize=100&systemDiskBackupQuota=0&isBackup=false&backupDiskType=ALL&backupDiskCustomizeValue=&backupQuotaSegment=1&backupQuota=1&wanIp=0&loginSet=BIND_SSH_KEY&tags=null&templateCreateMode=createLt"><img alt="部署到 CVM" width="194" height="49" src="docs/assets/deploy-on-cvm.png" /></a>
+</p>
 
 ## 📑 目录
 
