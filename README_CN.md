@@ -303,7 +303,7 @@ docker run -d \
 
 完整变量列表见 [`.env.example`](.env.example)。
 
-### Deploy with Cloud
+### 云端部署
 
 <p>
   <a href="https://buy.cloud.tencent.com/lighthouse?blueprintType=APP_OS&blueprintOfficialId=lhbp-nxq7695q&regionId=1&zone=ap-guangzhou-6&bundleId=bundle_rs_mc_med2_01&loginSet=AUTO_PASSWORD&goodsNum=0&from=lh-console"><img alt="部署到轻量云" width="194" height="49" src="docs/assets/deploy-on-lighthouse.png" /></a><br>
