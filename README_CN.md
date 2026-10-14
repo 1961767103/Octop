@@ -30,7 +30,6 @@
   <a href="#-功能特性">功能特性</a> ·
   <a href="#-规划">规划</a> ·
   <a href="#-快速开始">快速开始</a> ·
-  <a href="https://zenith.hosting/host/octop">托管部署</a> ·
   <a href="#-目录">目录</a>
 </p>
 
@@ -181,7 +180,7 @@ Octop 支持两个方向的 ACP 集成：
 
 ## 🚀 快速开始
 
-### 托管部署
+### 使用 Zenith 部署
 
 如果不想自行管理服务器，可以通过 Zenith Hosting 部署 Octop：
 
