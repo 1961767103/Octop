@@ -180,18 +180,6 @@ Octop 支持两个方向的 ACP 集成：
 
 ## 🚀 快速开始
 
-### 部署
-
-如果不想自行安装，可以部署到腾讯云轻量云、云服务器 CVM，或通过 Zenith Hosting 部署：
-
-<p>
-  <a href="https://buy.cloud.tencent.com/lighthouse?blueprintType=APP_OS&blueprintOfficialId=lhbp-nxq7695q&regionId=1&zone=ap-guangzhou-6&bundleId=bundle_rs_mc_med2_01&loginSet=AUTO_PASSWORD&goodsNum=0&from=lh-console"><img alt="部署到轻量云" height="49" src="https://img.shields.io/badge/%E9%83%A8%E7%BD%B2%E5%88%B0-%E8%BD%BB%E9%87%8F%E4%BA%91-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://buy.cloud.tencent.com/cvm?tab=custom&step=1&devPayMode=monthly&regionId=1&zoneId=100007&instanceType=SA9.64XLARGE1152&supportConfidentiality=false&platform=TencentOS&imageId=img-n3gxkolf&systemDiskType=CLOUD_HSSD&systemDiskSize=100&systemDiskBackupQuota=0&isBackup=false&backupDiskType=ALL&backupDiskCustomizeValue=&backupQuotaSegment=1&backupQuota=1&wanIp=0&loginSet=BIND_SSH_KEY&tags=null&templateCreateMode=createLt"><img alt="部署到 CVM" height="49" src="https://img.shields.io/badge/%E9%83%A8%E7%BD%B2%E5%88%B0-CVM-0052D9?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://zenith.hosting/host/octop"><img alt="使用 Zenith 部署" height="49" src="https://cdn.zenith.hosting/buttons/deploy-with-zenith.svg" /></a>
-</p>
-
 ### 环境要求
 
 - **macOS / Linux / Windows**
@@ -315,6 +303,12 @@ docker run -d \
 
 完整变量列表见 [`.env.example`](.env.example)。
 
+### Deploy with Cloud
+
+<p>
+  <a href="https://buy.cloud.tencent.com/lighthouse?blueprintType=APP_OS&blueprintOfficialId=lhbp-nxq7695q&regionId=1&zone=ap-guangzhou-6&bundleId=bundle_rs_mc_med2_01&loginSet=AUTO_PASSWORD&goodsNum=0&from=lh-console"><img alt="部署到轻量云" width="194" height="49" src="docs/assets/deploy-on-lighthouse.png" /></a><br>
+  <a href="https://buy.cloud.tencent.com/cvm?tab=custom&step=1&devPayMode=monthly&regionId=1&zoneId=100007&instanceType=SA9.64XLARGE1152&supportConfidentiality=false&platform=TencentOS&imageId=img-n3gxkolf&systemDiskType=CLOUD_HSSD&systemDiskSize=100&systemDiskBackupQuota=0&isBackup=false&backupDiskType=ALL&backupDiskCustomizeValue=&backupQuotaSegment=1&backupQuota=1&wanIp=0&loginSet=BIND_SSH_KEY&tags=null&templateCreateMode=createLt"><img alt="部署到 CVM" width="194" height="49" src="docs/assets/deploy-on-cvm.png" /></a>
+</p>
 
 ## 📑 目录
 
